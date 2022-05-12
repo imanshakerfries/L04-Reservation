@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="Heading">Reserve A Table</string>
+    <string name="fullName">Enter Your Name</string>
+    <string name="phoneNumber">Enter Phone Number</string>
+    <string name="numPax">Enter Number of People</string>
+    <string name="smoking">Smoking Area</string>
+</resources>
